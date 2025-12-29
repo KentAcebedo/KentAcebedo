@@ -1,22 +1,21 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3670A0&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Kent+Acebedo;Backend+Developer;ML+Enthusiast;Math+is+hard+but+I+love+it!;Building+from+the+Philippines+🇵🇭" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3670A0&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Kent+Acebedo;ML+Enthusiast;Aspiring+Backend+Developer;Math+is+hard+but+I+love+it!;Building+from+the+Philippines+🇵🇭" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://cdn.pixabay.com/animation/2022/12/05/15/23/15-23-06-837_512.gif" width="250">
 </p>
 
-<h3 align="center">Passionate Backend Developer & Machine Learning Engineer from the Philippines</h3>
+<h3 align="center">Machine Learning Enthusiast & Aspiring Backend Developer from the Philippines</h3>
 
 ---
 
 ### 👤 About Me
 
-- 👨‍💻 **Portfolio:** [acebedokentaron.netlify.app](https://acebedokentaron.netlify.app/) *(Currently under revision)*
-- 🌱 **Learning:** React, Laravel, and TypeScript
-- 👯 **Collaborating:** I'm open to **Machine Learning projects**! If it gives me knowledge, I’m on it. 🚀
-- 🤝 **Seeking help:** Deepening my expertise in **Backend Architecture**
-- 💬 **Ask me about:** Machine Learning & the math I'm currently wrestling with
+- 👨‍💻 **Portfolio:** [acebedokentaron.netlify.app](https://acebedokentaron.netlify.app/) *(Updating to reflect my ML journey)*
+- 🌱 **Currently Diving Into:** Backend Architecture (Laravel, Node.js) and Frontend frameworks.
+- 👯 **Collaboration:** I'm eager to join **Machine Learning projects**! Honestly, if it’s an opportunity to learn something new, I’m in. 🚀
+- 💬 **Ask me about:** My college ML projects or the math concepts I'm currently wrestling with.
 - 📫 **Reach me:** [acebedokentaron@gmail.com](mailto:acebedokentaron@gmail.com)
 - ⚡ **Fun Fact:** I love to delve into mathematics, even though I'm constantly struggling with it! lol
 
@@ -32,7 +31,7 @@
 
 ### 🛠️ Languages and Tools:
 
-#### 🤖 Machine Learning & Data Science
+#### 🤖 Machine Learning & Data Science (Experienced in College)
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
@@ -43,7 +42,7 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 </p>
 
-#### ⚙️ Backend & Databases
+#### ⚙️ Backend & Databases (Currently Learning)
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
@@ -53,12 +52,24 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
-#### 🖥️ Other Tech & Tools
+#### 🖥️ Currently Exploring
 <p align="left">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+  <a href="https://cursor.com">
+    <img src="https://img.shields.io/badge/Cursor-02303A?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  </a>
+  <a href="https://www.arduino.cc/">
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  </a>
+  <a href="https://unity.com/">
+    <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity"/>
+  </a>
 </p>
