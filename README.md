@@ -1,6 +1,9 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=3670A0&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Kent+Acebedo;ML+Enthusiast;Aspiring+Backend+Developer;Math+is+hard+but+I+love+it!;Building+from+the+Philippines+🇵🇭" alt="Typing SVG" />
 </h1>
+<p align="center">
+  <code>"We cannot become what we want by remaining what we are." — Trust me bro</code>
+</p>
 
 <p align="center">
   <img src="https://cdn.pixabay.com/animation/2022/12/05/15/23/15-23-06-837_512.gif" width="250">
