@@ -18,7 +18,7 @@
 - 👨‍💻 **Portfolio:** [acebedokentaron.netlify.app](https://acebedokentaron.netlify.app/) *(Updating to reflect my ML journey)*
 - 🌱 **Currently Diving Into:** Backend Architecture (Laravel, Node.js) and Frontend frameworks.
 - 👯 **Collaboration:** I'm eager to join **Machine Learning projects**! Honestly, if it’s an opportunity to learn something new, I’m in. 🚀
-- 💬 **Ask me about:** My college ML projects or the math concepts I'm currently wrestling with.
+- 💬 **Ask me about:** My ML projects and anything related to programming.
 - 📫 **Reach me:** [acebedokentaron@gmail.com](mailto:acebedokentaron@gmail.com)
 - ⚡ **Fun Fact:** I love to delve into mathematics, even though I'm constantly struggling with it! lol
 
