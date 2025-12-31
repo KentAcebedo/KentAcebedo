@@ -20,7 +20,7 @@
 - 👯 **Collaboration:** I'm eager to join **Machine Learning projects**! Honestly, if it’s an opportunity to learn something new, I’m in. 🚀
 - 💬 **Ask me about:** My ML projects and anything related to programming.
 - 📫 **Reach me:** [acebedokentaron@gmail.com](mailto:acebedokentaron@gmail.com)
-- ⚡ **Fun Fact:** I love to delve into mathematics, even though I'm constantly struggling with it! lol
+- ⚡ **Fun Fact:** I love to delve into mathematics, even though I'm constantly struggling with it! lolll
 
 ---
 
