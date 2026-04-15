@@ -20,7 +20,7 @@
 * 🤝 Open to **collaborations & real-world projects**
 * 💬 Ask me about **ML, backend dev, or coding in general**
 * 📫 Reach me at **[acebedokentaron@gmail.com](mailto:acebedokentaron@gmail.com)**
-* ⚡ Fun fact: *I enjoy math… even when it doesn’t enjoy me 😅*
+
 
 ---
 
@@ -63,34 +63,7 @@
   <img src="https://skillicons.dev/icons?i=react,arduino,unity" />
 </p>
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
-### 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-* 🔍 **Criminal Face Detection System**
-  Built with YOLOv8, MTCNN, and FaceNet for real-time detection
-
-* 🚗 **Vehicle Trip Management System**
-  Laravel-based system with RFID time tracking
-
----
 
 ### 🎯 Goals
 
@@ -101,5 +74,5 @@
 ---
 
 <p align="center">
-  ⭐ <i>Keep building. Stay curious. Never stop learning.</i>
+  <i>"We cannot become what we want by remaining what we are."</i>
 </p>
