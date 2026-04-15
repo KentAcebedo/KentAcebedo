@@ -65,14 +65,6 @@
 
 
 
-### 🎯 Goals
-
-* 🚀 Become a **strong backend engineer**
-* 🤖 Build impactful **machine learning systems**
-* 🌍 Contribute to **real-world tech solutions**
-
----
-
 <p align="center">
   <i>"We cannot become what we want by remaining what we are."</i>
 </p>
