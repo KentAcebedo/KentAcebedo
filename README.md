@@ -3,12 +3,7 @@
 </h1>
 
 <p align="center">
-  <b>Machine Learning Enthusiast • Aspiring Backend Developer</b><br>
-  Building from the Philippines 🇵🇭
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3670A0&center=true&vCenter=true&width=500&lines=Machine+Learning+Projects;Backend+Development;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3670A0&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Aspiring+Backend+Developer;Building+from+the+Philippines" />
 </p>
 
 ---
